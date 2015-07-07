@@ -1,9 +1,9 @@
-Package: com.redzrex.iOS 8.3
+Package: com.redzrex.iOS8.3
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Redzrex <redzrex@gmail.com>
 Depends: winterboard
-Filename: debs//com.redzrex.iOS 8.3.deb
+Filename: debs//com.redzrex.iOS8.3.deb
 Size: 111000
 MD5sum: FFDC5CB6F9BB908147355BF0549A28E6
 SHA1: 905A176EC56763301D04CFAE037110CA0114762C
@@ -11,7 +11,7 @@ SHA256: 979C0E2E1C119B518EDDCDA9A45D682B94736450D82D81411BC6C1DCE0A83261
 Section: Themes (Messages)
 Description: Celebrating iOS 8.3 Jailbreak Release
 Author: Redzrex <redzrex@gmail.com>
-Depiction: http://redzrex.github.io/Depic/com.redzrex.iOS 8.3/index.html
+Depiction: http://redzrex.github.io/Depic/com.redzrex.iOS8.3/index.html
 Name: iOS 8.3 Respring Logo
 
 //start new packages on this line
