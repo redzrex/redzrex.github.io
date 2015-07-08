@@ -5,9 +5,9 @@ Maintainer: Redzrex <redzrex@gmail.com>
 Depends: winterboard
 Filename: debs//com.redzrex.iOS8.3.deb
 Size: 120436
-MD5sum: CC13CAA70C5BEC1291226235F9DA08D4
-SHA1: B92C29F4B00818EF4DF02FDA9D750D0B9E5609D8
-SHA256: A2B8D0CC53240FEB010C4893D49A37325507560A4052B4141BDE31CF2A01E756
+MD5sum: cc13caa70c5bec1291226235f9da08d4
+SHA1: b92c29f4b00818ef4df02fda9d750d0b9e5609d8
+SHA256: a2b8d0cc53240feb010c4893d49a37325507560a4052b4141bde31cf2a01e756
 Section: Themes (Respring Logo)
 Description: Celebrating iOS 8.3 Jailbreak Release
 Author: Redzrex <redzrex@gmail.com>
