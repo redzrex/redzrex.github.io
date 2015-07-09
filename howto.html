@@ -8,14 +8,34 @@
                 <!-- Bootstrap -->
                 <link href="../assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
 		
+		<script language="JavaScript">
+		function toggletext(cid)
+		{
+		if ( document.getElementById(cid).style.display == "none" )
+			{
+			document.getElementById(cid).style.display = "block";
+			}
+		else
+			{
+			document.getElementById(cid).style.display = "none";
+			};
+		}
+		</script>
+		
     </head>
     <body style='font-family="glyphicons-halflings-regular"'>
 	<center>
 		
 			<a href="http://redzrex.github.io"><img class="Banner" src="http://redzrex.github.io/assets/images/RedzrexBanner.png" vspace="20"></a>
 			
-			<h1>&nbsp;</h1>
-			<h1>Work In Progress</h1>
+			<h2>Repo Generator</h2>
+			<a href="javascript:toggletext('repogentext')" class="button" title="More info about Cydia">Cydia</a>
+			<div id="repogentext" style="display: none;">
+			<p>
+			<p>A quick way to generate own Repo files. <a href="https://www.reddit.com/r/jailbreak/comments/3coybz/release_easy_repo_generator_for_windows_tips_on/">main post</a> <br />
+			Download the EasyRepoGenerator.zip file below: <br />
+			<a href="http://redzrex.github.io/Easy Repo Generator/EasyRepoGenerator.zip">Download Here</a> | <a href="https://mega.nz/#!ghwkmRIY!3GOY4QW79YGpycXVSzOantGxETvJYAiDPOXFZNcoZNM">Mirror</a> <br />
+			</p></div>
             
         </div>
         <script src="http://code.jquery.com/jquery.js"></script>
