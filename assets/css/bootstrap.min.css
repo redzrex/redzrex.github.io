@@ -42,3 +42,12 @@
         background:-webkit-linear-gradient(top, #d1d1d1 0%,#ECECEC 100%);
     }
 	
+/*Invisible Button*/
+	a.invibutt {
+    background: transparent;
+    border: none !important;
+	width: 200px;
+    margin:0px auto;
+	box-shadow: 0px 2px 1px white inset, 0px -2px 8px white, 0px 2px 5px rgba(0, 0, 0, 0.1), 0px 8px 10px rgba(0, 0, 0, 0.1);
+        -webkit-transition:box-shadow 0.5s;
+}​
