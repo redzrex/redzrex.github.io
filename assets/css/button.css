@@ -25,7 +25,7 @@ body {
 	text-align: center;
 }
 
-.button {
+.butt {
 	display: inline-block;
   margin: 0;
   padding: 0.75rem 1rem;
@@ -43,29 +43,29 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
-.button:hover {
+.butt:hover {
 	opacity: 0.85;
 }
 
-.button:active {
+.butt:active {
 	box-shadow: inset 0 3px 4px hsla(0, 0%, 0%, 0.2);
 }
 
-.button:focus {
+.butt:focus {
 	outline: thin dotted #444;
 	outline: 5px auto -webkit-focus-ring-color;
 	outline-offset: -2px;
 }
 
-.button_primary {
+.butt_primary {
 	background-color: #1fa3ec;
 }
 
-.button_secondary {
+.butt_secondary {
 	background-color: #e98724;
 }
 
-.button-icon {
+.butt-icon {
 	display: inline-block;
   position: relative;
   top: -0.1em;
