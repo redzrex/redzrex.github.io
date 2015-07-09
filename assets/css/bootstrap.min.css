@@ -118,12 +118,12 @@ body {
 
 /* bright room */
 #btn:after {
-  position:fixed;
+  position:left;
   content:'';
   top:0;
   left:0;
-  height:100%;
-  width:100%;
+  height:20%;
+  width:20%;
   background: transparent;
   visibility: visible;
 }
