@@ -21,7 +21,8 @@ body {
 
 /* hide real input */
 #btn {
-  position: absolute;
+  position: fixed;
+  left: 10%
   z-index:-1;
   visibility: hidden;
 }
@@ -50,15 +51,6 @@ body {
     box-shadow: 0px 1px 3px rgba(0,0,0,0.4) inset, 0px 1px 0px #fff;
     border-radius: 15px;
     background: rgba(90, 90, 90, .35);
-}
-
-/* switch button: on + glow in the dark */
-#btn:checked ~ .btn {
-    background: linear-gradient(bottom, #e9e4e0 0%,rgba(255,255,255,0.1) 3%), linear-gradient(top, #e5e0d8 0%,#f9f6f1 100%);
-  
-    box-shadow: 0px -4px 0px #d2cdc4 inset, 0px -3px 0px #e5e0d8, 0px 0px 0px 4px #777069, 0px -2px 0px 4px #777069, 0px 0px 0px 10px #f9f6f2, 0px -2px 0px 10px #f9f6f2, 0px 0px 0px 11px #f0ebe7, 0px -2px 0px 11px #f0ebe7, 0px 0px 0px 20px #f9f6f2, 0px 4px 1px 20px #e4e1dc, 0px -4px 0px 20px #fdfcfb, 0px 4px 20px 20px #000, 150px 0 100px rgba(240, 240, 0, 0);
-  
-  animation: nightwatch 3.25s infinite ease-in -.85s;
 }
 
 @keyframes nightwatch {
