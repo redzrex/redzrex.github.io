@@ -8,6 +8,20 @@
                 <!-- Bootstrap -->
                 <link href="../assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
 		
+		<script language="JavaScript">
+		function toggletext(cid)
+		{
+		if ( document.getElementById(cid).style.display == "none" )
+			{
+			document.getElementById(cid).style.display = "block";
+			}
+		else
+			{
+			document.getElementById(cid).style.display = "none";
+			};
+		}
+		</script>
+
     </head>
     <body style='font-family="glyphicons-halflings-regular"'>
 	<center>
@@ -16,8 +30,10 @@
 			
 			<h2>What is?</h2>
 			<a href="respringlogo.html" class="button" title="Respring Logo showcase and deb downloads">Respring Logo</a>
-            
-        </div>
+            <a href="javascript:toggletext('mytext')">Click here to toggle hidden text</a>
+			<div id="mytext" style="display: none;">
+			test hidden text</div>
+			
         <script src="http://code.jquery.com/jquery.js"></script>
         <script src="../js/bootstrap.min.js"></script>
 	</center>
