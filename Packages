@@ -36,10 +36,10 @@ Architecture: iphoneos-arm
 Maintainer: Redzrex <redzrex@gmail.com>
 Depends: winterboard
 Filename: debs//com.redzrex.wwftiger.deb
-Size: 117298
-MD5sum: 75c44282ef9f2f39d7ae5b001a69d550
-SHA1: df863b23d67d9354a469e5044231678c59b9084a
-SHA256: 783ef5bd27ebc4c6db9189522b7ce20f88385197f50ad65d9350ae51201e1784
+Size: 114360
+MD5sum: 2ce572b694768ae50807201b33f7ae20
+SHA1: 3ddcc38d19e698f5191bcf90192393b1b32f194d
+SHA256: 281daa0563887eb085321cb85defeccbe21cdd41642d5f28a32f3b0b8aa15253
 Section: Themes (Respring Logo)
 Description: Run4Tiger.com
 Author: Redzrex <redzrex@gmail.com>
