@@ -29,3 +29,19 @@ Description: For all League Of Legends players and fans.
 Author: Redzrex <redzrex@gmail.com>
 Depiction: http://redzrex.github.io/depic/com.redzrex.lol/index.html
 Name: League Of Legends Respring Logo
+
+Package: com.redzrex.wwftiger
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Redzrex <redzrex@gmail.com>
+Depends: winterboard
+Filename: debs//com.redzrex.wwftiger.deb
+Size: 441332
+MD5sum: 9ce5bbc6c6e0c1f3a967fdd0e000dd8e
+SHA1: 9aa7e374aae18eaed6ecca6dd282c79339232f63
+SHA256: ea27437e1e45c0cc4b1847c8f0b5bb9ec9c1a6d36c8a28ae89052fce9ae2c1d2
+Section: Themes (Respring Logo)
+Description: Run4Tiger.com
+Author: Redzrex <redzrex@gmail.com>
+Depiction: http://redzrex.github.io/depic/com.redzrex.wwftiger/index.html
+Name: WWF Tiger Challenge Respring Logo
