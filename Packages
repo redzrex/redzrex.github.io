@@ -52,10 +52,10 @@ Depends: mobilesubstrate
 Version: 1.1
 Architecture: iphoneos-arm
 Filename: debs//com.redzrex.itsok.deb
-Size: 3172
-MD5sum: b4d79217b4556639695ea784e4b0e616
-SHA1: 8745b0a927fe0c2b89dcfe969776e0bd3f3f46eb
-SHA256: a3f4a09af4ea176f9e7ad97aa5e9a44acf07ce84e8e31927484c0b4f87612a95
+Size: 3342
+MD5sum: 93c9e7b172f1c3df56d054fc9a7cf987
+SHA1: 1224ecd0bc7d19ca5d0fae29011fa9752ec27484
+SHA256: 135ec76be5876377aedd4b26cb5f84e2039d1e8d16864988513dd1d3291fb8cd
 Homepage: http://redzrex.github.io
 Description: Disable Jailbreak detection on some apps.
 Depiction: http://redzrex.github.io/depic/com.redzrex.itsok/index.html
