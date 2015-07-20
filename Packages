@@ -52,11 +52,10 @@ Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
 Filename: debs//com.redzrex.itsokcimb.deb
-Icon: assets//icons/itsokcimb.png
-Size: 3084
-MD5sum: 92c5d5615ee0f549bc618312945ebeb1
-SHA1: 8b516fcfbff44c3b3a5108de48c2095f3cfee480
-SHA256: 3157d9a6551aadeaed0ebefc4de4f96c854237307ca4ce2ee5d39369645f8421
+Size: 3106
+MD5sum: 1cb5469fb4b25a1739941dc1ab0149ea
+SHA1: 91d2a761559e9f1d5813b617f639d52624ad3ad6
+SHA256: 39740010e6cb33026cdfd91044054a7c0c05f0781bdbd784754a07868e304f1d
 Homepage: http://redzrex.github.io
 Description: Disable CIMB app Jailbreak detection.
 Depiction: http://redzrex.github.io/depic/com.redzrex.itsokcimb/index.html
