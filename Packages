@@ -45,3 +45,20 @@ Description: Run4Tiger.com
 Author: Redzrex <redzrex@gmail.com>
 Depiction: http://redzrex.github.io/depic/com.redzrex.wwftiger/index.html
 Name: WWF Tiger Challenge Respring Logo
+
+Package: com.redzrex.itsokcimb
+Name: Its Ok CIMB
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: debs//com.redzrex.itsokcimb.deb
+Size: 3084
+MD5sum: 92c5d5615ee0f549bc618312945ebeb1
+SHA1: 8b516fcfbff44c3b3a5108de48c2095f3cfee480
+SHA256: 3157d9a6551aadeaed0ebefc4de4f96c854237307ca4ce2ee5d39369645f8421
+Homepage: http://redzrex.github.io
+Description: Disable CIMB app Jailbreak detection.
+Depiction: http://redzrex.github.io/depic/com.redzrex.itsokcimb/index.html
+Maintainer: Redzrex <redzrex@gmail.com>
+Author: Redzrex <redzrex@gmail.com>
+Section: Tweaks
