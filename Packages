@@ -57,6 +57,7 @@ MD5sum: 93c9e7b172f1c3df56d054fc9a7cf987
 SHA1: 1224ecd0bc7d19ca5d0fae29011fa9752ec27484
 SHA256: 135ec76be5876377aedd4b26cb5f84e2039d1e8d16864988513dd1d3291fb8cd
 Homepage: http://redzrex.github.io
+Icon: http://redzrex.github.io/assets/icons/itsokss.png
 Description: Disable Jailbreak detection on some apps.
 Depiction: http://redzrex.github.io/depic/com.redzrex.itsok/index.html
 Maintainer: Redzrex <redzrex@gmail.com>
