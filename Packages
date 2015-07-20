@@ -52,6 +52,7 @@ Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
 Filename: debs//com.redzrex.itsokcimb.deb
+Icon: assets//icons/itsokcimb.png
 Size: 3084
 MD5sum: 92c5d5615ee0f549bc618312945ebeb1
 SHA1: 8b516fcfbff44c3b3a5108de48c2095f3cfee480
