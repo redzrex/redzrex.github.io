@@ -46,19 +46,19 @@ Author: Redzrex <redzrex@gmail.com>
 Depiction: http://redzrex.github.io/depic/com.redzrex.wwftiger/index.html
 Name: WWF Tiger Challenge Respring Logo
 
-Package: com.redzrex.itsokcimb
-Name: Its Ok CIMB
+Package: com.redzrex.itsok
+Name: Its OK
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
-Filename: debs//com.redzrex.itsokcimb.deb
-Size: 3106
-MD5sum: 1cb5469fb4b25a1739941dc1ab0149ea
-SHA1: 91d2a761559e9f1d5813b617f639d52624ad3ad6
-SHA256: 39740010e6cb33026cdfd91044054a7c0c05f0781bdbd784754a07868e304f1d
+Filename: debs//com.redzrex.itsok.deb
+Size: 3164
+MD5sum: 4db218085b81331d0646b21989f633de
+SHA1: e055f0b64c04f2c1edb2d4ac351beb26845d617b
+SHA256: 3970e0a5399ccf306f602e06587a8b5aad2f7f395ef286746c68f28e17941db2
 Homepage: http://redzrex.github.io
-Description: Disable CIMB app Jailbreak detection.
-Depiction: http://redzrex.github.io/depic/com.redzrex.itsokcimb/index.html
+Description: Disable Jailbreak detection on some Malaysian banking app.
+Depiction: http://redzrex.github.io/depic/com.redzrex.itsok/index.html
 Maintainer: Redzrex <redzrex@gmail.com>
 Author: Redzrex <redzrex@gmail.com>
 Section: Tweaks
