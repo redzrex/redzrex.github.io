@@ -49,7 +49,7 @@ Name: WWF Tiger Challenge Respring Logo
 Package: com.redzrex.itsok
 Name: Its OK
 Depends: mobilesubstrate
-Version: 1.2
+Version: 1.2-1
 Architecture: iphoneos-arm
 Filename: debs//com.redzrex.itsok.deb
 Size: 3424
