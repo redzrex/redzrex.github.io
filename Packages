@@ -80,3 +80,20 @@ Depiction: http://redzrex.github.io/depic/com.redzrex.whoneedsdock/index.html
 Maintainer: Redzrex <redzrex@gmail.com>
 Author: Redzrex <redzrex@gmail.com>
 Section: Tweaks
+
+Package: com.redzrex.bettate
+Name: Bettate
+Depends: mobilesubstrate
+Version: 1.0-5
+Architecture: iphoneos-arm
+Filename: debs//com.redzrex.bettate.deb
+Size: 3224
+MD5sum: 47ce6f9f97633e2bf71e96f3bb1e0e7c
+SHA1: e92a750479e5dcbef9082e72aef045fc952061f9
+SHA256: f74238a7399acf6345c11cbf5ca1db018550e4e4c2cefbba9a84de69571d9c36
+Homepage: http://redzrex.github.io
+Description: Allow Homepage rotation for iP6 and below with iOS8.
+Depiction: http://redzrex.github.io/depic/com.redzrex.bettate/index.html
+Maintainer: Redzrex <redzrex@gmail.com>
+Author: Redzrex <redzrex@gmail.com>
+Section: Tweaks
