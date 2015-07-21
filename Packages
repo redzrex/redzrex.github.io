@@ -49,13 +49,13 @@ Name: WWF Tiger Challenge Respring Logo
 Package: com.redzrex.itsok
 Name: Its OK
 Depends: mobilesubstrate
-Version: 1.2-1
+Version: 1.2-2
 Architecture: iphoneos-arm
 Filename: debs//com.redzrex.itsok.deb
 Size: 3424
-MD5sum: 7f95f67490e3e76d650613101afad062
-SHA1: 7f5a4f1f621c259a5bd67d611e1152ef57ddb69d
-SHA256: 9b3054f25f192998d878379246ea9d2fc596dcfd3a4c50851e05f1a392f17a59
+MD5sum: 88432f38316f992982d321276602e81e
+SHA1: a5445702e78fa697d4f32f0b218b35a91c3db4f9
+SHA256: 9a349a7f3dfb3ccc1b17219907543c473c0aeb61b3ff2ad395e4e71620792f7e
 Homepage: http://redzrex.github.io
 Icon: http://redzrex.github.io/assets/icons/itsokss.png
 Description: Disable Jailbreak detection on some apps.
