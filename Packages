@@ -67,7 +67,7 @@ Section: Tweaks
 Package: com.redzrex.whoneedsdock
 Name: WhoNeedsDock?
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Filename: debs//com.redzrex.whoneedsdock.deb
 Size: 2968
