@@ -63,3 +63,20 @@ Depiction: http://redzrex.github.io/depic/com.redzrex.itsok/index.html
 Maintainer: Redzrex <redzrex@gmail.com>
 Author: Redzrex <redzrex@gmail.com>
 Section: Tweaks
+
+Package: com.redzrex.whoneedsdock
+Name: WhoNeedsDock?
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: debs//com.redzrex.whoneedsdock.deb
+Size: 2968
+MD5sum: ebc2a1734a2b0b1fdf217bcaac7f8cba
+SHA1: 9d93117572d8aa567bf9260cb2d1cb7d99a9521f
+SHA256: 721471dd2d5599cfd9e563a3a1222d0214921be9abd91bca49414e298051361f
+Homepage: http://redzrex.github.io
+Description: Removes Dock entirely.
+Depiction: http://redzrex.github.io/depic/com.redzrex.whoneedsdock/index.html
+Maintainer: Redzrex <redzrex@gmail.com>
+Author: Redzrex <redzrex@gmail.com>
+Section: Tweaks
