@@ -47,53 +47,52 @@ Depiction: http://redzrex.github.io/depic/com.redzrex.wwftiger/index.html
 Name: WWF Tiger Challenge Respring Logo
 
 Package: com.redzrex.itsok
-Name: Its OK
-Depends: mobilesubstrate
 Version: 1.2-2
 Architecture: iphoneos-arm
+Maintainer: Redzrex <redzrex@gmail.com>
+Depends: mobilesubstrate
 Filename: debs//com.redzrex.itsok.deb
 Size: 3424
 MD5sum: 88432f38316f992982d321276602e81e
 SHA1: a5445702e78fa697d4f32f0b218b35a91c3db4f9
 SHA256: 9a349a7f3dfb3ccc1b17219907543c473c0aeb61b3ff2ad395e4e71620792f7e
-Homepage: http://redzrex.github.io
-Icon: http://redzrex.github.io/assets/icons/itsokss.png
-Description: Disable Jailbreak detection on some apps.
-Depiction: http://redzrex.github.io/depic/com.redzrex.itsok/index.html
-Maintainer: Redzrex <redzrex@gmail.com>
-Author: Redzrex <redzrex@gmail.com>
 Section: Tweaks
+Homepage: http://redzrex.github.io
+Description: Disable Jailbreak detection on some apps.
+Author: Redzrex <redzrex@gmail.com>
+Depiction: http://redzrex.github.io/depic/com.redzrex.itsok/index.html
+Name: Its OK
 
 Package: com.redzrex.whoneedsdock
-Name: WhoNeedsDock?
-Depends: mobilesubstrate
 Version: 1.0-1
 Architecture: iphoneos-arm
+Maintainer: Redzrex <redzrex@gmail.com>
+Depends: mobilesubstrate
 Filename: debs//com.redzrex.whoneedsdock.deb
 Size: 2968
 MD5sum: ebc2a1734a2b0b1fdf217bcaac7f8cba
 SHA1: 9d93117572d8aa567bf9260cb2d1cb7d99a9521f
 SHA256: 721471dd2d5599cfd9e563a3a1222d0214921be9abd91bca49414e298051361f
+Section: Tweaks
 Homepage: http://redzrex.github.io
 Description: Removes Dock entirely.
-Depiction: http://redzrex.github.io/depic/com.redzrex.whoneedsdock/index.html
-Maintainer: Redzrex <redzrex@gmail.com>
 Author: Redzrex <redzrex@gmail.com>
-Section: Tweaks
+Depiction: http://redzrex.github.io/depic/com.redzrex.whoneedsdock/index.html
+Name: WhoNeedsDock?
 
 Package: com.redzrex.bettate
-Name: Bettate
-Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
+Maintainer: Redzrex <redzrex@gmail.com>
+Depends: mobilesubstrate
 Filename: debs//com.redzrex.bettate.deb
 Size: 3222
 MD5sum: dfa8cc70a88d04e43b2c730d83c52eec
 SHA1: d4ad6e3b2f32667367652f01c81967c4086c5cee
 SHA256: df36b35f6101eb3078eb21ed0c247d0fab3bde90facb567d3dbbe9b1b6d4f041
+Section: Tweaks
 Homepage: http://redzrex.github.io
 Description: Allow Homepage rotation for iP6 and below with iOS8.
-Depiction: http://redzrex.github.io/depic/com.redzrex.bettate/index.html
-Maintainer: Redzrex <redzrex@gmail.com>
 Author: Redzrex <redzrex@gmail.com>
-Section: Tweaks
+Depiction: http://redzrex.github.io/depic/com.redzrex.bettate/index.html
+Name: Bettate
