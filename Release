@@ -2,7 +2,7 @@ Origin: Redzrex's Repo
 Label: Redzrex's Repo
 Suite: stable
 Version: 1.0
-Codename: Redzrex
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Redzrex's Repo
