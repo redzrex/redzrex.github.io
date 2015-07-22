@@ -84,13 +84,13 @@ Section: Tweaks
 Package: com.redzrex.bettate
 Name: Bettate
 Depends: mobilesubstrate
-Version: 1.0-5
+Version: 1.0-6
 Architecture: iphoneos-arm
 Filename: debs//com.redzrex.bettate.deb
-Size: 3224
-MD5sum: 47ce6f9f97633e2bf71e96f3bb1e0e7c
-SHA1: e92a750479e5dcbef9082e72aef045fc952061f9
-SHA256: f74238a7399acf6345c11cbf5ca1db018550e4e4c2cefbba9a84de69571d9c36
+Size: 3226
+MD5sum: ca0010cb4c485ab00d42e282e133bebf
+SHA1: 923853271ccdb86cc56af4a78e4ae1316aab0ceb
+SHA256: 8fe2deaddd1afde0aba242bab25842c22133324eb610ef2c0705a62d76f89ba3
 Homepage: http://redzrex.github.io
 Description: Allow Homepage rotation for iP6 and below with iOS8.
 Depiction: http://redzrex.github.io/depic/com.redzrex.bettate/index.html
