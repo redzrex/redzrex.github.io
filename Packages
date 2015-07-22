@@ -81,15 +81,15 @@ Depiction: http://redzrex.github.io/depic/com.redzrex.whoneedsdock/index.html
 Name: WhoNeedsDock?
 
 Package: com.redzrex.bettate
-Version: 1.1
+Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: Redzrex <redzrex@gmail.com>
 Depends: mobilesubstrate
 Filename: debs//com.redzrex.bettate.deb
-Size: 4196
-MD5sum: c45a24e602648527c7c5996ad7df25e8
-SHA1: 205913f3b882017e74f26687a39b2fd82008ff3e
-SHA256: 373da280782cb121671e13ca319fce29821aad0d539ab5684bcb4b1da0ce1517
+Size: 4050
+MD5sum: a902b0b01ff8c9d6820e7231882da437
+SHA1: edc656ecc5778b503bdadf113ce06d9ee9415a87
+SHA256: a453e70177bacd3fee135c118328178a04eb8a8ab52cb8c672396126991f3c26
 Section: Tweaks
 Homepage: http://redzrex.github.io
 Description: Allow Homepage rotation for iP6 and below with iOS8.
