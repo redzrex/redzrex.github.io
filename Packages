@@ -96,3 +96,19 @@ Description: Allow Homepage rotation for iP6 and below with iOS8.
 Author: Redzrex <redzrex@gmail.com>
 Depiction: http://redzrex.github.io/depic/com.redzrex.bettate/index.html
 Name: Bettate
+
+Package: com.redzrex.nikeair
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Redzrex <redzrex@gmail.com>
+Depends: winterboard
+Filename: debs//com.redzrex.nikeair.deb
+Size: 129314
+MD5sum: 0bc48edf404ce73b9de1b9e22f26eba2
+SHA1: a2a94b79a2ccede6033c6196f55a112aabecab75
+SHA256: c18f391e2c33a7f4d96cdaaf2f6cc947a7f25cf840b1facc82e4fb41c7480cc9
+Section: Themes (Respring Logo)
+Description: Respring Logo of Nike AIR
+Author: Redzrex <redzrex@gmail.com>
+Depiction: http://redzrex.github.io/depic/com.redzrex.nikeair/index.html
+Name: Nike AIR Respring Logo
