@@ -119,7 +119,7 @@ Architecture: iphoneos-arm
 Maintainer: Redzrex <redzrex@gmail.com>
 Depends: winterboard
 Filename: debs//com.redzrex.justdoitrl.deb
-Size: 117306
+Size: 177306
 MD5sum: 1200f1c5981a78d8dc839c9aaa09924f
 SHA1: 6af1293a5711634511f141687426e1e175ef9fd6
 SHA256: 2994a25a96087e2fe46a9ea4eeadbf427a07e4efa9f64d1a4f26c3d2a80ad55b
