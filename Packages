@@ -114,15 +114,15 @@ Depiction: http://redzrex.github.io/depic/com.redzrex.nikeair/index.html
 Name: Nike AIR Respring Logo
 
 Package: com.redzrex.justdoitrl
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Redzrex <redzrex@gmail.com>
 Depends: winterboard
 Filename: debs//com.redzrex.justdoitrl.deb
-Size: 177306
-MD5sum: 1200f1c5981a78d8dc839c9aaa09924f
-SHA1: 6af1293a5711634511f141687426e1e175ef9fd6
-SHA256: 2994a25a96087e2fe46a9ea4eeadbf427a07e4efa9f64d1a4f26c3d2a80ad55b
+Size: 187690
+MD5sum: 6934568e2388ee909ef4e7c80378d953
+SHA1: ee48a8c10a7be85619a86f614e4b51b3947998d2
+SHA256: 52a3dda3eb36cfdca75eb51be4dcdb7375fd9e5ab3250cf4aad08263b991d0c4
 Section: Themes (Respring Logo)
 Description: Yes You Can! DO IT!
 Author: Redzrex <redzrex@gmail.com>
