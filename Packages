@@ -135,10 +135,10 @@ Architecture: iphoneos-arm
 Maintainer: Redzrex <redzrex@gmail.com>
 Depends: winterboard
 Filename: debs//com.redzrex.justbootitrl.deb
-Size: 127382
-MD5sum: e1fe1172f3f6f718d0cc6a9931d6a0c6
-SHA1: be4b0ac9f40ce93cec9566d45d266faa4a319e25
-SHA256: b41fd4d8ee1985adf0ef7d955d5382ecd576166f04a7678d98d641ee1698a9b4
+Size: 127384
+MD5sum: 709158271517c066c0abaa9114fcd9d9
+SHA1: 5aae0b6fa61c412e7360f2b62fb45decb4badef8
+SHA256: 4abd54f2ca0fa762bca5401f28449b23670411d150e16dbf9617c41faa022dcb
 Section: Themes (Respring Logo)
 Description: Yes You Can! BOOT IT!
 Author: Redzrex <redzrex@gmail.com>
