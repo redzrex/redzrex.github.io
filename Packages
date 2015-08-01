@@ -144,3 +144,19 @@ Description: Yes You Can! BOOT IT!
 Author: Redzrex <redzrex@gmail.com>
 Depiction: http://redzrex.github.io/depic/com.redzrex.justbootitrl/index.html
 Name: JUST BOOT IT Respring Logo
+
+Package: com.redzrex.heisenbergrl
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Redzrex <redzrex@gmail.com>
+Depends: winterboard
+Filename: debs//com.redzrex.heisenbergrl.deb
+Size: 108630
+MD5sum: 5b974b98cd0abc5a27d8435d1b538d0f
+SHA1: cc1deea3dc8e0b82f4f8f70beef8461447a80fd3
+SHA256: b5da17ac8a130b51dc266cbead1b69d59eee9a9f1ccae9fc7a3fe3dac0cffa71
+Section: Themes (Respring Logo)
+Description: I Am The One Who Knocks.
+Author: Redzrex <redzrex@gmail.com>
+Depiction: http://redzrex.github.io/depic/com.redzrex.heisenbergrl/index.html
+Name: Heisenberg Respring Logo
