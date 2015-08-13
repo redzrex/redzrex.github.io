@@ -160,3 +160,19 @@ Description: I Am The One Who Knocks.
 Author: Redzrex <redzrex@gmail.com>
 Depiction: http://redzrex.github.io/depic/com.redzrex.heisenbergrl/index.html
 Name: Heisenberg Respring Logo
+
+Package: com.redzrex.marniethedog
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Redzrex <redzrex@gmail.com>
+Depends: winterboard
+Filename: debs//com.redzrex.marniethedog.deb
+Size: 481696
+MD5sum: c4ac8a86af99eac532367855d12d961c
+SHA1: a79c8afefd1c52c5628da00ac56bf7e402bd27aa
+SHA256: 2515f8138dd117e93d7e774169dd4e73935aa5b0e51519718cdf72d62e3c5d0c
+Section: Themes (Respring Logo)
+Description: Woof! Woof! :3.
+Author: Redzrex <redzrex@gmail.com>
+Depiction: http://redzrex.github.io/depic/com.redzrex.marniethedogrl/index.html
+Name: Marnie The Dog Respring Logo
