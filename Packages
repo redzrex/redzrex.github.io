@@ -181,7 +181,7 @@ Package: com.redzrex.marniethedogbl
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Redzrex <redzrex@gmail.com>
-Depends: org.chronic-dev.animate
+Depends: com.zaxdo.animate8
 Filename: debs//com.redzrex.marniethedogbl.deb
 Size: 133282
 MD5sum: cfa25b303e440bd7dd54dc7f45ab1037
