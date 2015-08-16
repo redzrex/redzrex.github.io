@@ -176,3 +176,19 @@ Description: Woof! Woof! :3.
 Author: Redzrex <redzrex@gmail.com>
 Depiction: http://redzrex.github.io/depic/com.redzrex.marniethedogrl/index.html
 Name: Marnie The Dog Respring Logo
+
+Package: com.redzrex.marniethedogbl
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Redzrex <redzrex@gmail.com>
+Depends: com.chronic-dev.animate
+Filename: debs//com.redzrex.marniethedogbl.deb
+Size: 240738
+MD5sum: b909f95273b85eae58666c315f5557d5
+SHA1: e6d33e38040fc6ea1193388bc81ac4e65ca56a8e
+SHA256: fe8554ee766a1edb85692aa04c332ceb243577f9a236dd99efcf0475fbe85d99
+Section: Themes (Boot Logo)
+Description: Woof! Woof! :3.
+Author: Redzrex <redzrex@gmail.com>
+Depiction: http://redzrex.github.io/depic/com.redzrex.marniethedogbl/index.html
+Name: Marnie The Dog Boot Logo
