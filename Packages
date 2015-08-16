@@ -172,7 +172,7 @@ MD5sum: c4ac8a86af99eac532367855d12d961c
 SHA1: a79c8afefd1c52c5628da00ac56bf7e402bd27aa
 SHA256: 2515f8138dd117e93d7e774169dd4e73935aa5b0e51519718cdf72d62e3c5d0c
 Section: Themes (Respring Logo)
-Description: Woof! Woof! :3.
+Description: Woof! Woof! :3
 Author: Redzrex <redzrex@gmail.com>
 Depiction: http://redzrex.github.io/depic/com.redzrex.marniethedogrl/index.html
 Name: Marnie The Dog Respring Logo
@@ -183,12 +183,12 @@ Architecture: iphoneos-arm
 Maintainer: Redzrex <redzrex@gmail.com>
 Depends: org.chronic-dev.animate
 Filename: debs//com.redzrex.marniethedogbl.deb
-Size: 240768
-MD5sum: 346d58ab4660c21a70de50cde1f3b1ce
-SHA1: 5080a62b94c7cb2d67f5a9bce612987e8ae1ba74
-SHA256: e22f1a0e04924263aa83fb7dc5f66ccdbe96545ce64a531d714bde68a93228ec
+Size: 133282
+MD5sum: cfa25b303e440bd7dd54dc7f45ab1037
+SHA1: 4e8e0ce4568beeb03e2ca813e3cf835a5354eb86
+SHA256: a9190464302061183785350c8b760434fac63b5322462b4780cdbcad88284989
 Section: Themes (Boot Logo)
-Description: Woof! Woof! :3.
+Description: Woof! Woof! :3
 Author: Redzrex <redzrex@gmail.com>
 Depiction: http://redzrex.github.io/depic/com.redzrex.marniethedogbl/index.html
 Name: Marnie The Dog Boot Logo
