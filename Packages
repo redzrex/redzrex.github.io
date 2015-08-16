@@ -183,10 +183,10 @@ Architecture: iphoneos-arm
 Maintainer: Redzrex <redzrex@gmail.com>
 Depends: org.chronic-dev.animate
 Filename: debs//com.redzrex.marniethedogbl.deb
-Size: 240738
-MD5sum: b909f95273b85eae58666c315f5557d5
-SHA1: e6d33e38040fc6ea1193388bc81ac4e65ca56a8e
-SHA256: fe8554ee766a1edb85692aa04c332ceb243577f9a236dd99efcf0475fbe85d99
+Size: 240768
+MD5sum: 346d58ab4660c21a70de50cde1f3b1ce
+SHA1: 5080a62b94c7cb2d67f5a9bce612987e8ae1ba74
+SHA256: e22f1a0e04924263aa83fb7dc5f66ccdbe96545ce64a531d714bde68a93228ec
 Section: Themes (Boot Logo)
 Description: Woof! Woof! :3.
 Author: Redzrex <redzrex@gmail.com>
