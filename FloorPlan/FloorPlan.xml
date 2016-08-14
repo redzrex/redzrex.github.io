@@ -3,11 +3,11 @@
 	<viewer_version>3.5</viewer_version>
 	<units>8</units>
 	<precision>3</precision>
-	<x>406.6666666666667</x>
-	<y>1396.9999999999998</y>
+	<x>0</x>
+	<y>0</y>
 	<width>9920</width>
 	<height>7014</height>
-	<scale>30</scale>
+	<scale>15</scale>
 	<back_color>ffffff</back_color>
 	<title></title>
 	<used_numbers>1,1,1,2,2,7,1,3,2,2</used_numbers>
@@ -273,11 +273,11 @@
 		<name>shape2</name>
 		<type>rectangle</type>
 		<background>false</background>
-		<x>-3476.666666666667</x>
-		<y>-3303</y>
+		<x>-3490</x>
+		<y>-3236</y>
 		<z>7</z>
-		<width>1493.3333333333342</width>
-		<height>306.6666666666671</height>
+		<width>1493.3333333333337</width>
+		<height>440.3333333333338</height>
 		<rotation>0</rotation>
 		<fill>true</fill>
 		<fill_color>eeeeee</fill_color>
@@ -314,7 +314,7 @@
 		<pan_marker></pan_marker>
 		<pan_scale>-1</pan_scale>
 		<pan_speed>80</pan_speed>
-		<temp>431:-4228.575974020453:-3461.5759740204526:-2724.757359312881:-3144.4240259795474</temp>
+		<temp>431:-4241.909307353786:-3461.409307353786:-2738.090692646214:-3010.590692646214</temp>
 		<over_style>
 			<enabled>true</enabled>
 			<fill>true</fill>
@@ -339,12 +339,12 @@
 	<text>
 		<index>1</index>
 		<name>text1</name>
-		<x>-3546.666666666667</x>
-		<y>-3320.0000000000005</y>
+		<x>-3520.0000000000005</x>
+		<y>-3253.333333333334</y>
 		<z>8</z>
 		<rotation>0</rotation>
 		<string>|&lt;   BACK</string>
-		<window_tab>-1</window_tab>
+		<window_tab>2</window_tab>
 		<mouse_enabled>false</mouse_enabled>
 		<over_event_type>-1</over_event_type>
 		<tooltip></tooltip>
@@ -367,7 +367,7 @@
 		<pan_marker></pan_marker>
 		<pan_scale>-1</pan_scale>
 		<pan_speed>80</pan_speed>
-		<temp>432:-4095.016666666667:-3448.3500000000004:-2998.316666666667:-3191.6500000000005:1094.7:254.7</temp>
+		<temp>432:-4068.3500000000004:-3381.683333333334:-2971.6500000000005:-3124.983333333334:1094.7:254.7</temp>
 		<text_format>
 			<font>Verdana, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Bitstream Vera Sans, Liberation Sans, sans-serif</font>
 			<size>100</size>
