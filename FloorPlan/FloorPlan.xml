@@ -7,7 +7,7 @@
 	<y>0</y>
 	<width>9920</width>
 	<height>7014</height>
-	<scale>15</scale>
+	<scale>18</scale>
 	<back_color>ffffff</back_color>
 	<title></title>
 	<used_numbers>1,1,1,2,2,7,1,3,2,2</used_numbers>
@@ -158,9 +158,9 @@
 		<height>3507</height>
 		<border>0</border>
 		<border_color>000000</border_color>
-		<zoom_mode>2</zoom_mode>
+		<zoom_mode>1</zoom_mode>
 		<center_mode>2</center_mode>
-		<controls_mode>1</controls_mode>
+		<controls_mode>4</controls_mode>
 	</publish_settings>
 	<image>
 		<index>0</index>
