@@ -4,13 +4,13 @@
 	<units>8</units>
 	<precision>3</precision>
 	<x>0</x>
-	<y>751</y>
+	<y>0</y>
 	<width>9920</width>
 	<height>7014</height>
-	<scale>25</scale>
+	<scale>15</scale>
 	<back_color>ffffff</back_color>
 	<title></title>
-	<used_numbers>1,1,1,1,2,7,1,2,2,2</used_numbers>
+	<used_numbers>1,1,1,2,2,7,1,3,2,2</used_numbers>
 	<grid>
 		<enabled>false</enabled>
 		<spacing>60.96</spacing>
@@ -153,7 +153,7 @@
 	<publish_settings>
 		<template>1</template>
 		<viewer_js>true</viewer_js>
-		<full_browser_size>false</full_browser_size>
+		<full_browser_size>true</full_browser_size>
 		<width>4960</width>
 		<height>3507</height>
 		<border>0</border>
@@ -167,9 +167,9 @@
 		<name>image1</name>
 		<file_id>1</file_id>
 		<background>false</background>
-		<x>826</x>
-		<y>-1096.3333333333335</y>
-		<z>0</z>
+		<x>39.33333333333328</x>
+		<y>83.66666666666646</y>
+		<z>5</z>
 		<width>9920</width>
 		<height>7014</height>
 		<flip_horizontal>false</flip_horizontal>
@@ -198,16 +198,16 @@
 		<pan_marker></pan_marker>
 		<pan_scale>-1</pan_scale>
 		<pan_speed>80</pan_speed>
-		<temp>429:-4134:-4603.333333333334:5786:2410.6666666666665</temp>
+		<temp>429:-4920.666666666667:-3423.3333333333335:4999.333333333333:3590.6666666666665</temp>
 	</image>
 	<shape>
 		<index>1</index>
 		<name>shape1</name>
 		<type>rectangle</type>
 		<background>false</background>
-		<x>985.125</x>
-		<y>-225.5</y>
-		<z>1</z>
+		<x>198.45833333333323</x>
+		<y>947.8333333333336</y>
+		<z>6</z>
 		<width>824.6386915437631</width>
 		<height>817.0711693557865</height>
 		<rotation>-59.99999999999999</rotation>
@@ -246,7 +246,7 @@
 		<pan_marker></pan_marker>
 		<pan_scale>-1</pan_scale>
 		<pan_speed>80</pan_speed>
-		<temp>431:422.74891887070186:-789.2610338115492:1547.5010811292982:338.26103381154905</temp>
+		<temp>430:-363.91774779596494:384.0722995217845:760.8344144626315:1511.5943671448827</temp>
 		<over_style>
 			<enabled>false</enabled>
 			<fill>true</fill>
@@ -268,6 +268,124 @@
 			<stroke_thickness>1</stroke_thickness>
 		</down_style>
 	</shape>
+	<shape>
+		<index>2</index>
+		<name>shape2</name>
+		<type>rectangle</type>
+		<background>false</background>
+		<x>-3490</x>
+		<y>-3236</y>
+		<z>7</z>
+		<width>1493.3333333333337</width>
+		<height>440.3333333333338</height>
+		<rotation>0</rotation>
+		<fill>true</fill>
+		<fill_color>eeeeee</fill_color>
+		<fill_opacity>100</fill_opacity>
+		<stroke>true</stroke>
+		<stroke_color>000000</stroke_color>
+		<stroke_opacity>100</stroke_opacity>
+		<stroke_thickness>3</stroke_thickness>
+		<strokeType></strokeType>
+		<dash>25</dash>
+		<spacing>10</spacing>
+		<corner>0</corner>
+		<points>*(:)</points>
+		<window_tab>2</window_tab>
+		<mouse_enabled>true</mouse_enabled>
+		<over_event_type>-1</over_event_type>
+		<tooltip></tooltip>
+		<over_info_text></over_info_text>
+		<over_info_image_id>-1</over_info_image_id>
+		<over_pop_up_id>-1</over_pop_up_id>
+		<over_html_popup></over_html_popup>
+		<over_html_popup_position>1</over_html_popup_position>
+		<over_html_popup_modal>false</over_html_popup_modal>
+		<event_type>2</event_type>
+		<info_text></info_text>
+		<info_image_id>-1</info_image_id>
+		<pop_up_id>-1</pop_up_id>
+		<link>http://www.hexagon.site/hexagon-colosseum</link>
+		<window>_self</window>
+		<java_script></java_script>
+		<html_popup></html_popup>
+		<html_popup_position>1</html_popup_position>
+		<html_popup_modal>false</html_popup_modal>
+		<pan_marker></pan_marker>
+		<pan_scale>-1</pan_scale>
+		<pan_speed>80</pan_speed>
+		<temp>431:-4241.909307353786:-3461.409307353786:-2738.090692646214:-3010.590692646214</temp>
+		<over_style>
+			<enabled>true</enabled>
+			<fill>true</fill>
+			<fill_color>eeeeee</fill_color>
+			<fill_opacity>100</fill_opacity>
+			<stroke>true</stroke>
+			<stroke_color>000000</stroke_color>
+			<stroke_opacity>100</stroke_opacity>
+			<stroke_thickness>1</stroke_thickness>
+		</over_style>
+		<down_style>
+			<enabled>false</enabled>
+			<fill>true</fill>
+			<fill_color>eeeeee</fill_color>
+			<fill_opacity>100</fill_opacity>
+			<stroke>true</stroke>
+			<stroke_color>000000</stroke_color>
+			<stroke_opacity>100</stroke_opacity>
+			<stroke_thickness>3</stroke_thickness>
+		</down_style>
+	</shape>
+	<text>
+		<index>1</index>
+		<name>text1</name>
+		<x>-3520.0000000000005</x>
+		<y>-3253.333333333334</y>
+		<z>8</z>
+		<rotation>0</rotation>
+		<string>|&lt;   BACK</string>
+		<window_tab>2</window_tab>
+		<mouse_enabled>false</mouse_enabled>
+		<over_event_type>-1</over_event_type>
+		<tooltip></tooltip>
+		<over_info_text></over_info_text>
+		<over_info_image_id>-1</over_info_image_id>
+		<over_pop_up_id>-1</over_pop_up_id>
+		<over_html_popup></over_html_popup>
+		<over_html_popup_position>1</over_html_popup_position>
+		<over_html_popup_modal>false</over_html_popup_modal>
+		<event_type>-1</event_type>
+		<info_text></info_text>
+		<info_image_id>-1</info_image_id>
+		<pop_up_id>-1</pop_up_id>
+		<link></link>
+		<window></window>
+		<java_script></java_script>
+		<html_popup></html_popup>
+		<html_popup_position>1</html_popup_position>
+		<html_popup_modal>false</html_popup_modal>
+		<pan_marker></pan_marker>
+		<pan_scale>-1</pan_scale>
+		<pan_speed>80</pan_speed>
+		<temp>432:-4068.3500000000004:-3381.683333333334:-2971.6500000000005:-3124.983333333334:1094.7:254.7</temp>
+		<text_format>
+			<font>Verdana, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Bitstream Vera Sans, Liberation Sans, sans-serif</font>
+			<size>100</size>
+			<color>000000</color>
+			<bold>true</bold>
+			<italic>false</italic>
+			<align>1</align>
+			<border>0</border>
+		</text_format>
+		<over_style>
+			<enabled>false</enabled>
+			<color>000000</color>
+		</over_style>
+		<down_style>
+			<enabled>false</enabled>
+			<color>000000</color>
+		</down_style>
+	</text>
 	<file>
 		<id>1</id>
 		<name>HEX.png</name>
