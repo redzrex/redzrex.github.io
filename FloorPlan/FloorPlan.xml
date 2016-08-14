@@ -223,7 +223,7 @@
 		<spacing>10</spacing>
 		<corner>0</corner>
 		<points>*(:)</points>
-		<window_tab>1</window_tab>
+		<window_tab>2</window_tab>
 		<mouse_enabled>true</mouse_enabled>
 		<over_event_type>1</over_event_type>
 		<tooltip></tooltip>
@@ -428,15 +428,15 @@
 	</file>
 	<pop_up>
 		<id>1</id>
-		<name>Pop-up 1</name>
+		<name>BSN</name>
 		<type>3</type>
 		<modal>false</modal>
 		<close_button>false</close_button>
 		<position>1</position>
 		<width>370</width>
-		<height>250</height>
-		<width2>324</width2>
-		<height2>178</height2>
+		<height>221</height>
+		<width2>331</width2>
+		<height2>179</height2>
 		<border>2</border>
 		<corner>10</corner>
 		<shadow>5</shadow>
@@ -448,8 +448,8 @@
 		<back_color>ffffff</back_color>
 		<border_color>333333</border_color>
 		<image>
-			<x>26</x>
-			<y>58</y>
+			<x>33</x>
+			<y>59</y>
 			<z>0</z>
 			<width>298</width>
 			<height>120</height>
@@ -457,5 +457,24 @@
 			<link></link>
 			<window></window>
 		</image>
+		<text>
+			<x>120</x>
+			<y>23</y>
+			<z>1</z>
+			<width>132</width>
+			<height>29</height>
+			<link></link>
+			<window></window>
+			<string>AEGIS Holder</string>
+			<text_format>
+				<font>Arial, Gill Sans, Gill Sans MT, Calibri, Myriad Pro, DejaVu Sans Condensed, Liberation Sans, Tahoma, Helvetica, sans-serif</font>
+				<size>20</size>
+				<bold>false</bold>
+				<italic>false</italic>
+				<align>1</align>
+				<color>000000</color>
+				<border>0</border>
+			</text_format>
+		</text>
 	</pop_up>
 </plan>
