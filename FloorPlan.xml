@@ -158,7 +158,7 @@
 		<height>3507</height>
 		<border>0</border>
 		<border_color>000000</border_color>
-		<zoom_mode>1</zoom_mode>
+		<zoom_mode>2</zoom_mode>
 		<center_mode>2</center_mode>
 		<controls_mode>4</controls_mode>
 	</publish_settings>
