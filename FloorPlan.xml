@@ -10,7 +10,7 @@
 	<scale>18</scale>
 	<back_color>ffffff</back_color>
 	<title></title>
-	<used_numbers>1,1,1,2,5,15,1,6,2,2</used_numbers>
+	<used_numbers>1,1,1,2,6,17,1,7,2,2</used_numbers>
 	<grid>
 		<enabled>false</enabled>
 		<spacing>60.96</spacing>
@@ -540,6 +540,74 @@
 			<stroke_thickness>1</stroke_thickness>
 		</down_style>
 	</shape>
+	<shape>
+		<index>6</index>
+		<name>shape6</name>
+		<type>oval</type>
+		<background>false</background>
+		<x>-485.7142857142857</x>
+		<y>139.52380952380952</y>
+		<z>7</z>
+		<width>385.7142857142857</width>
+		<height>379.20634920634916</height>
+		<rotation>0</rotation>
+		<fill>true</fill>
+		<fill_color>eeeeee</fill_color>
+		<fill_opacity>0</fill_opacity>
+		<stroke>false</stroke>
+		<stroke_color>000000</stroke_color>
+		<stroke_opacity>100</stroke_opacity>
+		<stroke_thickness>3</stroke_thickness>
+		<strokeType></strokeType>
+		<dash>25</dash>
+		<spacing>10</spacing>
+		<corner>0</corner>
+		<points>*(:)</points>
+		<window_tab>2</window_tab>
+		<mouse_enabled>true</mouse_enabled>
+		<over_event_type>1</over_event_type>
+		<tooltip></tooltip>
+		<over_info_text></over_info_text>
+		<over_info_image_id>-1</over_info_image_id>
+		<over_pop_up_id>5</over_pop_up_id>
+		<over_html_popup></over_html_popup>
+		<over_html_popup_position>1</over_html_popup_position>
+		<over_html_popup_modal>false</over_html_popup_modal>
+		<event_type>-1</event_type>
+		<info_text></info_text>
+		<info_image_id>-1</info_image_id>
+		<pop_up_id>-1</pop_up_id>
+		<link></link>
+		<window></window>
+		<java_script></java_script>
+		<html_popup></html_popup>
+		<html_popup_position>1</html_popup_position>
+		<html_popup_modal>false</html_popup_modal>
+		<pan_marker></pan_marker>
+		<pan_scale>-1</pan_scale>
+		<pan_speed>80</pan_speed>
+		<temp>436:-683.8140692585479:-55.322005766484345:-287.6145021700236:334.36962481410336</temp>
+		<over_style>
+			<enabled>false</enabled>
+			<fill>true</fill>
+			<fill_color>eeeeee</fill_color>
+			<fill_opacity>0</fill_opacity>
+			<stroke>false</stroke>
+			<stroke_color>000000</stroke_color>
+			<stroke_opacity>100</stroke_opacity>
+			<stroke_thickness>3</stroke_thickness>
+		</over_style>
+		<down_style>
+			<enabled>false</enabled>
+			<fill>true</fill>
+			<fill_color>eeeeee</fill_color>
+			<fill_opacity>0</fill_opacity>
+			<stroke>false</stroke>
+			<stroke_color>000000</stroke_color>
+			<stroke_opacity>100</stroke_opacity>
+			<stroke_thickness>3</stroke_thickness>
+		</down_style>
+	</shape>
 	<text>
 		<index>1</index>
 		<name>text1</name>
@@ -660,6 +728,16 @@
 		<width>525</width>
 		<height>300</height>
 	</file>
+	<file>
+		<id>16</id>
+		<name>TrophyViewLayoutSmall.jpg</name>
+		<embed>true</embed>
+		<export>true</export>
+		<x>0</x>
+		<y>0</y>
+		<width>525</width>
+		<height>300</height>
+	</file>
 	<pop_up>
 		<id>1</id>
 		<name>BSN</name>
@@ -764,7 +842,7 @@
 	</pop_up>
 	<pop_up>
 		<id>3</id>
-		<name>Pop-up 3</name>
+		<name>Arena 2</name>
 		<type>3</type>
 		<modal>false</modal>
 		<close_button>false</close_button>
@@ -796,7 +874,7 @@
 	</pop_up>
 	<pop_up>
 		<id>4</id>
-		<name>Pop-up 4</name>
+		<name>ChillOut Area</name>
 		<type>3</type>
 		<modal>false</modal>
 		<close_button>false</close_button>
@@ -822,6 +900,38 @@
 			<width>525</width>
 			<height>300</height>
 			<file_id>14</file_id>
+			<link></link>
+			<window></window>
+		</image>
+	</pop_up>
+	<pop_up>
+		<id>5</id>
+		<name>Trophy</name>
+		<type>3</type>
+		<modal>false</modal>
+		<close_button>false</close_button>
+		<position>1</position>
+		<width>543</width>
+		<height>315</height>
+		<width2>534</width2>
+		<height2>309</height2>
+		<border>2</border>
+		<corner>10</corner>
+		<shadow>5</shadow>
+		<horizontal_padding>5</horizontal_padding>
+		<vertical_padding>5</vertical_padding>
+		<default_offsets>true</default_offsets>
+		<horizontal_offset>0</horizontal_offset>
+		<vertical_offset>-16</vertical_offset>
+		<back_color>ffffff</back_color>
+		<border_color>333333</border_color>
+		<image>
+			<x>9</x>
+			<y>9</y>
+			<z>0</z>
+			<width>525</width>
+			<height>300</height>
+			<file_id>16</file_id>
 			<link></link>
 			<window></window>
 		</image>
