@@ -10,7 +10,7 @@
 	<scale>18</scale>
 	<back_color>ffffff</back_color>
 	<title></title>
-	<used_numbers>1,1,1,2,3,11,1,4,2,2</used_numbers>
+	<used_numbers>1,1,1,2,5,15,1,6,2,2</used_numbers>
 	<grid>
 		<enabled>false</enabled>
 		<spacing>60.96</spacing>
@@ -214,7 +214,7 @@
 		<fill>true</fill>
 		<fill_color>eeeeee</fill_color>
 		<fill_opacity>0</fill_opacity>
-		<stroke>true</stroke>
+		<stroke>false</stroke>
 		<stroke_color>000000</stroke_color>
 		<stroke_opacity>100</stroke_opacity>
 		<stroke_thickness>1</stroke_thickness>
@@ -223,7 +223,7 @@
 		<spacing>10</spacing>
 		<corner>0</corner>
 		<points>*(:)</points>
-		<window_tab>2</window_tab>
+		<window_tab>1</window_tab>
 		<mouse_enabled>true</mouse_enabled>
 		<over_event_type>1</over_event_type>
 		<tooltip></tooltip>
@@ -252,7 +252,7 @@
 			<fill>true</fill>
 			<fill_color>eeeeee</fill_color>
 			<fill_opacity>0</fill_opacity>
-			<stroke>true</stroke>
+			<stroke>false</stroke>
 			<stroke_color>000000</stroke_color>
 			<stroke_opacity>100</stroke_opacity>
 			<stroke_thickness>1</stroke_thickness>
@@ -262,7 +262,7 @@
 			<fill>true</fill>
 			<fill_color>eeeeee</fill_color>
 			<fill_opacity>0</fill_opacity>
-			<stroke>true</stroke>
+			<stroke>false</stroke>
 			<stroke_color>000000</stroke_color>
 			<stroke_opacity>100</stroke_opacity>
 			<stroke_thickness>1</stroke_thickness>
@@ -273,8 +273,8 @@
 		<name>shape2</name>
 		<type>rectangle</type>
 		<background>false</background>
-		<x>-3490</x>
-		<y>-3236</y>
+		<x>-3623.333333333333</x>
+		<y>-3258.2222222222226</y>
 		<z>2</z>
 		<width>1493.3333333333337</width>
 		<height>440.3333333333338</height>
@@ -282,7 +282,7 @@
 		<fill>true</fill>
 		<fill_color>eeeeee</fill_color>
 		<fill_opacity>100</fill_opacity>
-		<stroke>true</stroke>
+		<stroke>false</stroke>
 		<stroke_color>000000</stroke_color>
 		<stroke_opacity>100</stroke_opacity>
 		<stroke_thickness>3</stroke_thickness>
@@ -291,7 +291,7 @@
 		<spacing>10</spacing>
 		<corner>0</corner>
 		<points>*(:)</points>
-		<window_tab>2</window_tab>
+		<window_tab>1</window_tab>
 		<mouse_enabled>true</mouse_enabled>
 		<over_event_type>-1</over_event_type>
 		<tooltip></tooltip>
@@ -314,7 +314,7 @@
 		<pan_marker></pan_marker>
 		<pan_scale>-1</pan_scale>
 		<pan_speed>80</pan_speed>
-		<temp>431:-4241.909307353786:-3461.409307353786:-2738.090692646214:-3010.590692646214</temp>
+		<temp>431:-4375.242640687119:-3483.6315295760087:-2871.424025979547:-3032.8129148684366</temp>
 		<over_style>
 			<enabled>true</enabled>
 			<fill>true</fill>
@@ -330,7 +330,7 @@
 			<fill>true</fill>
 			<fill_color>eeeeee</fill_color>
 			<fill_opacity>100</fill_opacity>
-			<stroke>true</stroke>
+			<stroke>false</stroke>
 			<stroke_color>000000</stroke_color>
 			<stroke_opacity>100</stroke_opacity>
 			<stroke_thickness>3</stroke_thickness>
@@ -350,7 +350,7 @@
 		<fill>true</fill>
 		<fill_color>eeeeee</fill_color>
 		<fill_opacity>0</fill_opacity>
-		<stroke>true</stroke>
+		<stroke>false</stroke>
 		<stroke_color>000000</stroke_color>
 		<stroke_opacity>100</stroke_opacity>
 		<stroke_thickness>1</stroke_thickness>
@@ -388,7 +388,7 @@
 			<fill>true</fill>
 			<fill_color>eeeeee</fill_color>
 			<fill_opacity>0</fill_opacity>
-			<stroke>true</stroke>
+			<stroke>false</stroke>
 			<stroke_color>000000</stroke_color>
 			<stroke_opacity>100</stroke_opacity>
 			<stroke_thickness>1</stroke_thickness>
@@ -398,7 +398,143 @@
 			<fill>true</fill>
 			<fill_color>eeeeee</fill_color>
 			<fill_opacity>0</fill_opacity>
-			<stroke>true</stroke>
+			<stroke>false</stroke>
+			<stroke_color>000000</stroke_color>
+			<stroke_opacity>100</stroke_opacity>
+			<stroke_thickness>1</stroke_thickness>
+		</down_style>
+	</shape>
+	<shape>
+		<index>4</index>
+		<name>shape4</name>
+		<type>polygon</type>
+		<background>false</background>
+		<x>2907.368421052631</x>
+		<y>0</y>
+		<z>5</z>
+		<width>100</width>
+		<height>100</height>
+		<rotation>0</rotation>
+		<fill>true</fill>
+		<fill_color>eeeeee</fill_color>
+		<fill_opacity>0</fill_opacity>
+		<stroke>false</stroke>
+		<stroke_color>000000</stroke_color>
+		<stroke_opacity>100</stroke_opacity>
+		<stroke_thickness>1</stroke_thickness>
+		<strokeType></strokeType>
+		<dash>25</dash>
+		<spacing>10</spacing>
+		<corner>0</corner>
+		<points>*(0;;-1706.0000000000002;;-2518;;-1665.9999999999998;;1.0000000000004547;;-0.9923893961830359;;0;:0;;-2.089247439345385e-13;;-1406.4252557459288;;-2882.132543794612;;5.196152422705836;;5.3704639082011525;;5.3;)</points>
+		<window_tab>1</window_tab>
+		<mouse_enabled>true</mouse_enabled>
+		<over_event_type>1</over_event_type>
+		<tooltip></tooltip>
+		<over_info_text></over_info_text>
+		<over_info_image_id>-1</over_info_image_id>
+		<over_pop_up_id>3</over_pop_up_id>
+		<over_html_popup></over_html_popup>
+		<over_html_popup_position>1</over_html_popup_position>
+		<over_html_popup_modal>false</over_html_popup_modal>
+		<event_type>-1</event_type>
+		<info_text></info_text>
+		<info_image_id>-1</info_image_id>
+		<pop_up_id>-1</pop_up_id>
+		<link></link>
+		<window></window>
+		<java_script></java_script>
+		<html_popup></html_popup>
+		<html_popup_position>1</html_popup_position>
+		<html_popup_modal>false</html_popup_modal>
+		<pan_marker></pan_marker>
+		<pan_scale>-1</pan_scale>
+		<pan_speed>80</pan_speed>
+		<temp>434:387.3684210526312:-2884.132543794612:2910.3684210526317:7.3704639082011525</temp>
+		<over_style>
+			<enabled>false</enabled>
+			<fill>true</fill>
+			<fill_color>eeeeee</fill_color>
+			<fill_opacity>0</fill_opacity>
+			<stroke>false</stroke>
+			<stroke_color>000000</stroke_color>
+			<stroke_opacity>100</stroke_opacity>
+			<stroke_thickness>1</stroke_thickness>
+		</over_style>
+		<down_style>
+			<enabled>false</enabled>
+			<fill>true</fill>
+			<fill_color>eeeeee</fill_color>
+			<fill_opacity>0</fill_opacity>
+			<stroke>false</stroke>
+			<stroke_color>000000</stroke_color>
+			<stroke_opacity>100</stroke_opacity>
+			<stroke_thickness>1</stroke_thickness>
+		</down_style>
+	</shape>
+	<shape>
+		<index>5</index>
+		<name>shape5</name>
+		<type>polygon</type>
+		<background>false</background>
+		<x>-213.68421052631595</x>
+		<y>1667.526315789474</y>
+		<z>6</z>
+		<width>100</width>
+		<height>100</height>
+		<rotation>0</rotation>
+		<fill>true</fill>
+		<fill_color>eeeeee</fill_color>
+		<fill_opacity>0</fill_opacity>
+		<stroke>false</stroke>
+		<stroke_color>000000</stroke_color>
+		<stroke_opacity>100</stroke_opacity>
+		<stroke_thickness>1</stroke_thickness>
+		<strokeType></strokeType>
+		<dash>25</dash>
+		<spacing>10</spacing>
+		<corner>0</corner>
+		<points>*(7.105427357601002e-15;;658;;1376.451044959189;;4.451044959188948;;4.451044959189042;;5.25;:0;;0;;1540.723237962305;;1540.7232379623047;;4.723237962304665;;5.25;)</points>
+		<window_tab>2</window_tab>
+		<mouse_enabled>true</mouse_enabled>
+		<over_event_type>1</over_event_type>
+		<tooltip></tooltip>
+		<over_info_text></over_info_text>
+		<over_info_image_id>-1</over_info_image_id>
+		<over_pop_up_id>4</over_pop_up_id>
+		<over_html_popup></over_html_popup>
+		<over_html_popup_position>1</over_html_popup_position>
+		<over_html_popup_modal>false</over_html_popup_modal>
+		<event_type>-1</event_type>
+		<info_text></info_text>
+		<info_image_id>-1</info_image_id>
+		<pop_up_id>-1</pop_up_id>
+		<link></link>
+		<window></window>
+		<java_script></java_script>
+		<html_popup></html_popup>
+		<html_popup_position>1</html_popup_position>
+		<html_popup_modal>false</html_popup_modal>
+		<pan_marker></pan_marker>
+		<pan_scale>-1</pan_scale>
+		<pan_speed>80</pan_speed>
+		<temp>435:-215.68421052631595:1665.526315789474:1164.766834432873:3210.249553751779</temp>
+		<over_style>
+			<enabled>false</enabled>
+			<fill>true</fill>
+			<fill_color>eeeeee</fill_color>
+			<fill_opacity>0</fill_opacity>
+			<stroke>false</stroke>
+			<stroke_color>000000</stroke_color>
+			<stroke_opacity>100</stroke_opacity>
+			<stroke_thickness>1</stroke_thickness>
+		</over_style>
+		<down_style>
+			<enabled>false</enabled>
+			<fill>true</fill>
+			<fill_color>eeeeee</fill_color>
+			<fill_opacity>0</fill_opacity>
+			<stroke>false</stroke>
 			<stroke_color>000000</stroke_color>
 			<stroke_opacity>100</stroke_opacity>
 			<stroke_thickness>1</stroke_thickness>
@@ -407,8 +543,8 @@
 	<text>
 		<index>1</index>
 		<name>text1</name>
-		<x>-3520.0000000000005</x>
-		<y>-3253.333333333334</y>
+		<x>-3686.6666666666674</x>
+		<y>-3264.4444444444453</y>
 		<z>3</z>
 		<rotation>0</rotation>
 		<string>|&lt;   BACK</string>
@@ -435,7 +571,7 @@
 		<pan_marker></pan_marker>
 		<pan_scale>-1</pan_scale>
 		<pan_speed>80</pan_speed>
-		<temp>432:-4075.0000000000005:-3380.583333333334:-2965.0000000000005:-3126.083333333334:1108:252.5</temp>
+		<temp>432:-4241.666666666668:-3391.6944444444453:-3131.6666666666674:-3137.1944444444453:1108:252.5</temp>
 		<text_format>
 			<font>Verdana, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Bitstream Vera Sans, Liberation Sans, sans-serif</font>
 			<size>100</size>
@@ -503,6 +639,26 @@
 		<y>0</y>
 		<width>261</width>
 		<height>120</height>
+	</file>
+	<file>
+		<id>12</id>
+		<name>ARENA2LayoutSmall.jpg</name>
+		<embed>true</embed>
+		<export>true</export>
+		<x>0</x>
+		<y>0</y>
+		<width>525</width>
+		<height>300</height>
+	</file>
+	<file>
+		<id>14</id>
+		<name>ChilloutLayoutSmall.jpg</name>
+		<embed>true</embed>
+		<export>true</export>
+		<x>0</x>
+		<y>0</y>
+		<width>525</width>
+		<height>300</height>
 	</file>
 	<pop_up>
 		<id>1</id>
@@ -605,5 +761,69 @@
 				<border>0</border>
 			</text_format>
 		</text>
+	</pop_up>
+	<pop_up>
+		<id>3</id>
+		<name>Pop-up 3</name>
+		<type>3</type>
+		<modal>false</modal>
+		<close_button>false</close_button>
+		<position>1</position>
+		<width>543</width>
+		<height>315</height>
+		<width2>534</width2>
+		<height2>306</height2>
+		<border>2</border>
+		<corner>10</corner>
+		<shadow>5</shadow>
+		<horizontal_padding>5</horizontal_padding>
+		<vertical_padding>5</vertical_padding>
+		<default_offsets>true</default_offsets>
+		<horizontal_offset>0</horizontal_offset>
+		<vertical_offset>-16</vertical_offset>
+		<back_color>ffffff</back_color>
+		<border_color>333333</border_color>
+		<image>
+			<x>9</x>
+			<y>6</y>
+			<z>0</z>
+			<width>525</width>
+			<height>300</height>
+			<file_id>12</file_id>
+			<link></link>
+			<window></window>
+		</image>
+	</pop_up>
+	<pop_up>
+		<id>4</id>
+		<name>Pop-up 4</name>
+		<type>3</type>
+		<modal>false</modal>
+		<close_button>false</close_button>
+		<position>1</position>
+		<width>543</width>
+		<height>315</height>
+		<width2>534</width2>
+		<height2>307</height2>
+		<border>2</border>
+		<corner>10</corner>
+		<shadow>5</shadow>
+		<horizontal_padding>5</horizontal_padding>
+		<vertical_padding>5</vertical_padding>
+		<default_offsets>true</default_offsets>
+		<horizontal_offset>0</horizontal_offset>
+		<vertical_offset>-16</vertical_offset>
+		<back_color>ffffff</back_color>
+		<border_color>333333</border_color>
+		<image>
+			<x>9</x>
+			<y>7</y>
+			<z>0</z>
+			<width>525</width>
+			<height>300</height>
+			<file_id>14</file_id>
+			<link></link>
+			<window></window>
+		</image>
 	</pop_up>
 </plan>
