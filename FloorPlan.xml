@@ -3,11 +3,11 @@
 	<viewer_version>3.5</viewer_version>
 	<units>8</units>
 	<precision>3</precision>
-	<x>1611.111111111111</x>
-	<y>-822.2222222222223</y>
+	<x>0</x>
+	<y>0</y>
 	<width>9920</width>
 	<height>7014</height>
-	<scale>48</scale>
+	<scale>18</scale>
 	<back_color>ffffff</back_color>
 	<title></title>
 	<used_numbers>1,1,1,2,3,11,1,4,2,2</used_numbers>
