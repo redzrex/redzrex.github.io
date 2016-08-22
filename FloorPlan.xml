@@ -10,7 +10,7 @@
 	<scale>18</scale>
 	<back_color>ffffff</back_color>
 	<title></title>
-	<used_numbers>1,1,1,3,7,21,1,8,2,2</used_numbers>
+	<used_numbers>1,1,1,4,8,23,1,9,2,2</used_numbers>
 	<grid>
 		<enabled>false</enabled>
 		<spacing>60.96</spacing>
@@ -494,7 +494,7 @@
 		<dash>25</dash>
 		<spacing>10</spacing>
 		<corner>0</corner>
-		<points>*(7.105427357601002e-15;;658;;1376.451044959189;;4.451044959188948;;4.451044959189042;;5.25;:0;;0;;1540.723237962305;;1540.723237962305;;4.723237962304665;;5.25;)</points>
+		<points>*(322;;608;;1321.3796258183006;;-2098.6203741816994;;-1197.6203741816992;;140.45104495918903;;199.25;:4.65;;0;;1529.8475445178651;;1529.8475445178647;;-30.730233101693784;;4.723237962304665;;5.25;)</points>
 		<window_tab>2</window_tab>
 		<mouse_enabled>true</mouse_enabled>
 		<over_event_type>1</over_event_type>
@@ -518,7 +518,7 @@
 		<pan_marker></pan_marker>
 		<pan_scale>-1</pan_scale>
 		<pan_speed>80</pan_speed>
-		<temp>434:-215.68421052631595:1665.526315789474:1164.766834432873:3210.249553751779</temp>
+		<temp>434:-2314.304584708015:1634.7960826877802:1109.6954152919848:3199.373860307339</temp>
 		<over_style>
 			<enabled>false</enabled>
 			<fill>true</fill>
@@ -613,8 +613,8 @@
 		<name>shape7</name>
 		<type>polygon</type>
 		<background>false</background>
-		<x>395.71428571428635</x>
-		<y>1671.4285714285713</y>
+		<x>372.458471760798</x>
+		<y>1694.6843853820596</y>
 		<z>8</z>
 		<width>100</width>
 		<height>100</height>
@@ -630,7 +630,7 @@
 		<dash>25</dash>
 		<spacing>10</spacing>
 		<corner>0</corner>
-		<points>*(0;;815.0000000000002;;2507;;820.0000000000007;;821.6904730469635;;821.4;;814.3289321881346;;814.25;;814.25;;814.25;;814.25;:0;;-1411.6214081686348;;-1411.6214081686348;;1510.348304200061;;1506.7230730519143;;1507.15;;1500.0789321881346;;1500;;1500;;1500;;1500;)</points>
+		<points>*(70.44185933636913;;815.0000000000002;;2507;;820.0000000000007;;821.6904730469635;;821.4;;814.3289321881346;;814.25;;814.25;;814.25;;814.25;:-95.101705184504;;-1411.6214081686348;;-1411.6214081686348;;1510.348304200061;;1506.7230730519143;;1507.15;;1500.0789321881346;;1500;;1500;;1500;;1500;)</points>
 		<window_tab>2</window_tab>
 		<mouse_enabled>true</mouse_enabled>
 		<over_event_type>1</over_event_type>
@@ -654,7 +654,7 @@
 		<pan_marker></pan_marker>
 		<pan_scale>-1</pan_scale>
 		<pan_speed>80</pan_speed>
-		<temp>437:393.71428571428635:257.8071632599365:2904.7142857142862:3183.7768756286323</temp>
+		<temp>437:440.9003310971671:281.0629772134248:2881.458471760798:3207.032689582121</temp>
 		<over_style>
 			<enabled>false</enabled>
 			<fill>true</fill>
@@ -674,6 +674,74 @@
 			<stroke_color>000000</stroke_color>
 			<stroke_opacity>100</stroke_opacity>
 			<stroke_thickness>1</stroke_thickness>
+		</down_style>
+	</shape>
+	<shape>
+		<index>8</index>
+		<name>shape8</name>
+		<type>polygon</type>
+		<background>false</background>
+		<x>-2325.4586880467214</x>
+		<y>-2941.8837209302324</y>
+		<z>10</z>
+		<width>100</width>
+		<height>100</height>
+		<rotation>0</rotation>
+		<fill>true</fill>
+		<fill_color>eeeeee</fill_color>
+		<fill_opacity>0</fill_opacity>
+		<stroke>false</stroke>
+		<stroke_color>000000</stroke_color>
+		<stroke_opacity>100</stroke_opacity>
+		<stroke_thickness>3</stroke_thickness>
+		<strokeType></strokeType>
+		<dash>25</dash>
+		<spacing>10</spacing>
+		<corner>0</corner>
+		<points>*(-5.684341886080802e-14;;3543.9999999999995;;2654;;948;:0;;0;;1541.525218736301;;1541.5252187363008;)</points>
+		<window_tab>2</window_tab>
+		<mouse_enabled>true</mouse_enabled>
+		<over_event_type>1</over_event_type>
+		<tooltip></tooltip>
+		<over_info_text></over_info_text>
+		<over_info_image_id>-1</over_info_image_id>
+		<over_pop_up_id>7</over_pop_up_id>
+		<over_html_popup></over_html_popup>
+		<over_html_popup_position>1</over_html_popup_position>
+		<over_html_popup_modal>false</over_html_popup_modal>
+		<event_type>-1</event_type>
+		<info_text></info_text>
+		<info_image_id>-1</info_image_id>
+		<pop_up_id>-1</pop_up_id>
+		<link></link>
+		<window></window>
+		<java_script></java_script>
+		<html_popup></html_popup>
+		<html_popup_position>1</html_popup_position>
+		<html_popup_modal>false</html_popup_modal>
+		<pan_marker></pan_marker>
+		<pan_scale>-1</pan_scale>
+		<pan_speed>80</pan_speed>
+		<temp>439:-2329.4586880467214:-2945.8837209302324:1222.5413119532782:-1396.3585021939314</temp>
+		<over_style>
+			<enabled>false</enabled>
+			<fill>true</fill>
+			<fill_color>eeeeee</fill_color>
+			<fill_opacity>0</fill_opacity>
+			<stroke>false</stroke>
+			<stroke_color>000000</stroke_color>
+			<stroke_opacity>100</stroke_opacity>
+			<stroke_thickness>3</stroke_thickness>
+		</over_style>
+		<down_style>
+			<enabled>false</enabled>
+			<fill>true</fill>
+			<fill_color>eeeeee</fill_color>
+			<fill_opacity>0</fill_opacity>
+			<stroke>false</stroke>
+			<stroke_color>000000</stroke_color>
+			<stroke_opacity>100</stroke_opacity>
+			<stroke_thickness>3</stroke_thickness>
 		</down_style>
 	</shape>
 	<text>
@@ -776,6 +844,56 @@
 			<color>000000</color>
 		</down_style>
 	</text>
+	<text>
+		<index>3</index>
+		<name>text3</name>
+		<x>3555.5555555555557</x>
+		<y>-3155.5555555555566</y>
+		<z>11</z>
+		<rotation>0</rotation>
+		<string>HEXAGON ColosseumFloor Plan Layout</string>
+		<window_tab>1</window_tab>
+		<mouse_enabled>false</mouse_enabled>
+		<over_event_type>-1</over_event_type>
+		<tooltip></tooltip>
+		<over_info_text></over_info_text>
+		<over_info_image_id>-1</over_info_image_id>
+		<over_pop_up_id>-1</over_pop_up_id>
+		<over_html_popup></over_html_popup>
+		<over_html_popup_position>1</over_html_popup_position>
+		<over_html_popup_modal>false</over_html_popup_modal>
+		<event_type>-1</event_type>
+		<info_text></info_text>
+		<info_image_id>-1</info_image_id>
+		<pop_up_id>-1</pop_up_id>
+		<link></link>
+		<window></window>
+		<java_script></java_script>
+		<html_popup></html_popup>
+		<html_popup_position>1</html_popup_position>
+		<html_popup_modal>false</html_popup_modal>
+		<pan_marker></pan_marker>
+		<pan_scale>-1</pan_scale>
+		<pan_speed>80</pan_speed>
+		<temp>440:2728.3055555555557:-3405.0055555555564:4382.805555555556:-2906.1055555555567:1652.5:496.9</temp>
+		<text_format>
+			<font>AR DESTINE, Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black, sans-serif</font>
+			<size>100</size>
+			<color>660000</color>
+			<bold>false</bold>
+			<italic>false</italic>
+			<align>2</align>
+			<border>0</border>
+		</text_format>
+		<over_style>
+			<enabled>false</enabled>
+			<color>660000</color>
+		</over_style>
+		<down_style>
+			<enabled>false</enabled>
+			<color>660000</color>
+		</down_style>
+	</text>
 	<file>
 		<id>1</id>
 		<name>HEX.png</name>
@@ -859,6 +977,16 @@
 	<file>
 		<id>20</id>
 		<name>TechShowCaseSmall.jpg</name>
+		<embed>true</embed>
+		<export>true</export>
+		<x>0</x>
+		<y>0</y>
+		<width>525</width>
+		<height>300</height>
+	</file>
+	<file>
+		<id>22</id>
+		<name>SeatingAreaSmall.jpg</name>
 		<embed>true</embed>
 		<export>true</export>
 		<x>0</x>
@@ -1142,6 +1270,57 @@
 			<link></link>
 			<window></window>
 			<string>TECH SHOW CASE AREA</string>
+			<text_format>
+				<font>Lucida Console, Lucida Sans Typewriter, Liberation Mono, Consolas, Andale Mono, Courier New, Courier, Monaco, monospace</font>
+				<size>12</size>
+				<bold>true</bold>
+				<italic>false</italic>
+				<align>1</align>
+				<color>000000</color>
+				<border>0</border>
+			</text_format>
+		</text>
+	</pop_up>
+	<pop_up>
+		<id>7</id>
+		<name>Pop-up 7</name>
+		<type>3</type>
+		<modal>false</modal>
+		<close_button>false</close_button>
+		<position>1</position>
+		<width>543</width>
+		<height>333</height>
+		<width2>534</width2>
+		<height2>330</height2>
+		<border>2</border>
+		<corner>10</corner>
+		<shadow>5</shadow>
+		<horizontal_padding>5</horizontal_padding>
+		<vertical_padding>5</vertical_padding>
+		<default_offsets>true</default_offsets>
+		<horizontal_offset>0</horizontal_offset>
+		<vertical_offset>-16</vertical_offset>
+		<back_color>ffffff</back_color>
+		<border_color>333333</border_color>
+		<image>
+			<x>9</x>
+			<y>9</y>
+			<z>0</z>
+			<width>525</width>
+			<height>300</height>
+			<file_id>22</file_id>
+			<link></link>
+			<window></window>
+		</image>
+		<text>
+			<x>227</x>
+			<y>310</y>
+			<z>1</z>
+			<width>88</width>
+			<height>20</height>
+			<link></link>
+			<window></window>
+			<string>SEATING AREA</string>
 			<text_format>
 				<font>Lucida Console, Lucida Sans Typewriter, Liberation Mono, Consolas, Andale Mono, Courier New, Courier, Monaco, monospace</font>
 				<size>12</size>
