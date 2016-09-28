@@ -3346,7 +3346,7 @@ body {
 }
 p {
 	padding-left: 50%;
-	transform: translateX(-50%)
+	transform: translateX(-50%);
   height: 50px;
   float: left;
   margin-right: 0.3em;
