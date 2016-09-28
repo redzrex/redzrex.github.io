@@ -3345,8 +3345,7 @@ body {
   color: #999;
 }
 p {
-	padding-left: 50%;
-	transform: translateX(-50%);
+	padding-left: 4em;
   height: 50px;
   float: left;
   margin-right: 0.3em;
@@ -3364,9 +3363,9 @@ position: relative;
 white-space: nowrap;
 top: 0;
 left: 0;
--webkit-animation: move 5s;
+-webkit-animation: move 7.5s;
 -webkit-animation-iteration-count: infinite;
--webkit-animation-delay: 1s;
+-webkit-animation-delay: 1.5s;
 }
 
 @keyframes move {
