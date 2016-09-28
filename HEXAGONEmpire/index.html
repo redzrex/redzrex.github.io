@@ -10,13 +10,96 @@
                 <link href="../assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
 				<link rel="stylesheet" href="assets/css/style.css">
 				<link rel="stylesheet" href="assets/css/animate.css">
-			<script> 
-				 $(function(){ $("head").load("header.html") });
-			</script>
+			
 		
     </head>
     <body style='font-family="glyphicons-halflings-regular"'>
-        <div class="container">
+        /*HEADER*/
+		<nav id="sticker" class="navbar navbar-inverse">
+  <div class="container">
+    <div class="navbar-header">
+     <a class="menu"><i class="fa fa-bars" id="menu_icon"></i></a>
+      <a class="navbar-brand" href="#">
+    <img src="https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" class="img-responsive" />
+      
+      </a>
+    </div><!--navbar-header close-->
+    <div class="collapse navbar-collapse drop_menu" id="content_details">
+      <ul class="nav navbar-nav navbar-right">
+
+<li><a href="#"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+<li><a href="#"><span class="glyphicon glyphicon-font"></span> About Us</a></li>
+
+       <!--<li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-font"></span> About us<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Company</a></li>
+            <li><a href="#">Work</a></li>
+            <li><a href="#">Timing</a></li>
+          </ul>
+        </li>-->
+        <li><a href="#"><span class="glyphicon glyphicon-heart-empty"></span> Why Choose us</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-phone"></span> What We Do</a></li> 
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Contact Us</a></li>     
+      <li><a href="#" data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-search"></span> Search</a></li>
+        
+
+      </ul><!--navbar-right close-->
+    </div><!--collapse navbar-collapse drop_menu close-->
+  </div><!--container-fluid close-->
+</nav><!--navbar navbar-inverse close-->
+<!--search box-->
+<div class="container">
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">×</button>
+          <h4 class="modal-title">Search Section</h4>
+        </div>
+        <div class="modal-body">
+
+
+
+
+
+         <section class="search-box1" id="panel">
+  <div class="container">
+    <form class="form-inline" role="form">
+      <div class="col-sm-8 col-xs-8 form-group top_search" style="padding-right:0px;">
+        <div class="row">
+          <label class="sr-only" for="search">Search here...</label>
+          <span class="serach-footer"><img src="images/srch.png" /></span>
+          <input type="text" class="form-control search-wrap" id="search" placeholder="Search here...">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-4 col-xs-4 form-group top_search" style="padding-left:0px;">
+          <button type="submit" class="btn btn-default search-btn">SEARCH</button>
+        </div>
+      </div>
+    </form>
+  </div>
+</section>
+
+
+
+        </div>
+        
+        </div>
+      </div>
+      
+    </div>
+  </div>
+<br>
+<br>
+<br>
+/*HEADER*/
+		<div class="container">
+		
 		<center>
         	<h4>&nbsp;</h4>
 			<img class="del img-responsive animated fadeInUp" src="assets/images/HEXEMPIRElogo.png" width="35%" height="35%" style="position: relative; text-align:center;">
