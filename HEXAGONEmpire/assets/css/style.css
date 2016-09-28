@@ -1,0 +1,33 @@
+/*nav css*/
+.navbar-inverse {background-color: #ffffff;border-radius: 0px;height:80px;width:100%;position: fixed;z-index: 999;border: 0px solid;
+-webkit-box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.75);transition:all ease 0.8s;
+-moz-box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.75);}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+color:rgb(0, 4, 51) !important;background-color: #0e364c;}
+.navbar-brand {padding: 0;margin-left: 0px !important;}
+.navbar-brand img { height:50px;margin-left: 20px;margin-top: 9%;transition:all ease 0.8s;}
+.navbar-inverse .navbar-nav>li>a {color:rgb(255, 102, 0);font-family: 'Open Sans', sans-serif; line-height:3;font-weight: bold;}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {color:rgb(0, 4, 51) !important;}
+.menu { display:none;}
+.search-box1 {padding: 20px 0px;z-index: 99999;width: 100%;}
+.search {padding: 30px 0px;float: left;width: 100%;}
+.serach-footer {left: 20px;position: absolute;top: 10px;}
+.search-wrap {display: block;width: 100%;height: 40px;padding: 6px 12px;font-size: 14px;line-height: 1.42857143;color: #555;background-color: #fff;
+background-image: none;border: 1px solid #e2e2e2;border-radius: 20px;
+-webkit-box-shadow: inset 0 0px 0px rgba(0,0,0,.075);
+box-shadow: inset 0 0px 0px rgba(0,0,0,.075);
+-webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+-o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+width: 100% !important;padding-left: 45px;}
+.search-btn {background:rgb(0, 4, 51);
+width: 100%;border-radius: 0px 20px 20px 0px;color: #fff !important;height: 40px;border: 0px solid;font-weight: 600;font-size: 14px;}
+.search-btn:hover, .search-btn:focus {background:rgb(0, 4, 51);color: #fff !important;}
+.modal-dialog {width: 90% !important;margin: 20% auto;}
+.modal-content { background-color:rgb(255, 102, 0);}
+.modal-title {color: #ffffff !important;}
+
+
+
+/*nav css close*/
