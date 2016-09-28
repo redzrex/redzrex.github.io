@@ -3339,7 +3339,22 @@
   animation-name: slideOutUp;
 }
 
-
+body {
+  padding: 2em 5em;
+  font: normal 40px/50px Arial, sans-serif;
+  color: #999;
+}
+p {
+  height: 50px;
+  float: left;
+  margin-right: 0.3em;
+}
+b {
+  float: left;
+  overflow: hidden;
+  position: relative;
+  height: 50px;
+}
 span1 {
  display: inline-block;
 color: #0e102b;
