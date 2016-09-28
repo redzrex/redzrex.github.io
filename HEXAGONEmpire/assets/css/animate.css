@@ -3339,9 +3339,12 @@
   animation-name: slideOutUp;
 }
 
-
+body {
+  
+  font: normal 40px/50px Arial, sans-serif;
+  color: #999;
+}
 p {
-	padding: 2em 5em;
   height: 50px;
   float: left;
   margin-right: 0.3em;
