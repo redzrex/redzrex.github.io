@@ -3345,6 +3345,7 @@ body {
   color: #999;
 }
 p {
+	padding-left: 50%;
   height: 50px;
   float: left;
   margin-right: 0.3em;
