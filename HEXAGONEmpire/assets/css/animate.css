@@ -3341,12 +3341,12 @@
 
 body {
   
-  font: normal 40px/50px Arial, sans-serif;
+  font: normal 20px/30px Arial, sans-serif;
   color: #999;
 }
 p {
 	padding-left: 6em;
-  height: 50px;
+  height: 30px;
   float: left;
   margin-right: 0.3em;
 }
@@ -3354,7 +3354,7 @@ b {
   float: left;
   overflow: hidden;
   position: relative;
-  height: 50px;
+  height: 30px;
 }
 span1 {
  display: inline-block;
@@ -3370,10 +3370,10 @@ left: 0;
 
 @keyframes move {
 0%  { top: 0px; }
-20% { top: -50px; }
-40% { top: -100px; }
-60% { top: -150px; }
-80% { top: -200px; }
+20% { top: -30px; }
+40% { top: -60px; }
+60% { top: -90px; }
+80% { top: -120px; }
 }
 
 #particles {
