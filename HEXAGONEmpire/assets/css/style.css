@@ -18,12 +18,12 @@ color:rgb(0, 4, 51) !important;background-color: #ffffff;}
 header .top{
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #fff;
 
     position: fixed;
     width:100%;
     z-index: 1;
-    height: 88%;
+    height: 100%;
     overflow: hidden;
     top: 0;
     left: 0;
