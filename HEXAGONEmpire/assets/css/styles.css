@@ -56,6 +56,7 @@ section h2 {
 }
 
 section.success{
+	font-family: 'GeosansLight-NMS' !important;
     background-color: #06001a;
     color: #fff;
 	height: 100%;
