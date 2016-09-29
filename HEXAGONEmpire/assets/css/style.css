@@ -42,7 +42,7 @@ section h2 {
 
 .content-wrapper{
     background-color: white;
-    top: 87%;
+    top: 100%;
     min-height: 12%;
     position:absolute;
     z-index: 2;
