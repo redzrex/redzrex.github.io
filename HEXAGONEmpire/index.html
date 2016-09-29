@@ -10,24 +10,6 @@
                 <link href="../assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
 				<link rel="stylesheet" href="assets/css/styles.css">
 				<link rel="stylesheet" href="assets/css/animate.css">
-				<script>
-				$(function() {
-					
-				  $('a[href*=#]:not([href=#])').click(function() {
-					if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-					  var target = $(this.hash);
-					  target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-					  if (target.length) {
-						$('html,body').animate({
-						  scrollTop: target.offset().top
-						}, 1000);
-						return false;
-					  }
-					}
-				  });
-				  
-				});
-				</script>
 			
 		
     </head>
@@ -93,7 +75,7 @@
 			</b>
 			<h2>&nbsp;</h2>
 		</div>-->
-		<section class="success" id="about">
+		<section class="about" id="about">
 		<div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -101,23 +83,42 @@
 					<hr>
                 </div>
             </div>
-			<center>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Hello World!</p>
+                    <h4 style="text-align:center;">Hello World!</h4>
                 </div>
                 <div class="col-lg-4">
-                    <p>Yo Waddup!</p>
+                    <h4 style="text-align:center;">Yo Waddup!</h4>
                 </div>
             </div>
-			</center>
+        </div>
+		</section>
+		
+		<section class="footer" id="footer">
+		<div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>FOOOOOOOOOT</h2>
+					<hr>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+                    <h4 style="text-align:center;">Hello World!</h4>
+                </div>
+                <div class="col-lg-4">
+                    <h4 style="text-align:center;">Yo Waddup!</h4>
+                </div>
+            </div>
         </div>
 		</section>
 	</div>
+	
+
 		
 		<div id="particles"></div>
         <script src="http://code.jquery.com/jquery.js"></script>
-        <script src="js/bootstrap.min.js"></script>
+        <script src="assets/js/header.js"></script>
 		
 		
     </body>

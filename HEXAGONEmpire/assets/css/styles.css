@@ -46,6 +46,22 @@ section h2 {
     font-size: 3em;
 }
 
+section h3 {
+	font-family: 'GeosansLight-NMS' !important;
+}
+
+section h4 {
+	font-family: 'GeosansLight-NMS' !important;
+}
+
+section h5 {
+	font-family: 'GeosansLight-NMS' !important;
+}
+
+section h6 {
+	font-family: 'GeosansLight-NMS' !important;
+}
+
 .content-wrapper{
 	font-family: 'GeosansLight-NMS' !important;
 	text-align: center;
@@ -58,14 +74,22 @@ section h2 {
 	height: 100%;    
 }
 
-section.success{
+section.about{
 	font-family: 'GeosansLight-NMS' !important;
     background-color: #06001a;
     color: #fff;
 	height: 100%;
     }
 	
+section.footer{
+	font-family: 'GeosansLight-NMS' !important;
+    background-color: #181212;
+    color: #fff;
+	height: 100%;
+    }
 	
+	
+
 	
 /*FONT*/
 
