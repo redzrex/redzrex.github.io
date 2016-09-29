@@ -16,6 +16,7 @@ color:rgb(0, 4, 51) !important;background-color: #ffffff;}
 .modal-content { background-color:rgb(255, 102, 0);}
 .modal-title {color: #ffffff !important;}
 
+a.header:hover{color: #0f102c;}
 /*nav css close*/
 
 header .top{
