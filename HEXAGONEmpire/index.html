@@ -10,6 +10,24 @@
                 <link href="../assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
 				<link rel="stylesheet" href="assets/css/style.css">
 				<link rel="stylesheet" href="assets/css/animate.css">
+				<script>
+				$(function() {
+					
+				  $('a[href*=#]:not([href=#])').click(function() {
+					if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+					  var target = $(this.hash);
+					  target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+					  if (target.length) {
+						$('html,body').animate({
+						  scrollTop: target.offset().top
+						}, 1000);
+						return false;
+					  }
+					}
+				  });
+				  
+				});
+				</script>
 			
 		
     </head>
@@ -99,24 +117,7 @@
 		<div id="particles"></div>
         <script src="http://code.jquery.com/jquery.js"></script>
         <script src="../js/bootstrap.min.js"></script>
-		<script>
-		$(function() {
-			
-		  $('a[href*=#]:not([href=#])').click(function() {
-			if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-			  var target = $(this.hash);
-			  target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-			  if (target.length) {
-				$('html,body').animate({
-				  scrollTop: target.offset().top
-				}, 1000);
-				return false;
-			  }
-			}
-		  });
-		  
-		});
-		</script>
+		
 		
     </body>
 </html>
