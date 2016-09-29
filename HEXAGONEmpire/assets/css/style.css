@@ -43,7 +43,7 @@ section h2 {
 }
 
 .content-wrapper{
-	text-align:center;
+	text-align: center;
     background-color: white;
     top: 100%;
     min-height: 12%;
@@ -56,4 +56,5 @@ section h2 {
 section.success{
     background-color: #06001a;
     color: #fff;
+	height: 100%;
     }
