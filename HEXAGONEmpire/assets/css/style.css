@@ -1,10 +1,10 @@
 @font-face {
     font-family:"GeoNMSRegular";
-    src: url("geonms-webfont.eot") /* EOT file for IE */
+    src: url("geonms.eot") /* EOT file for IE */
 }
 @font-face {
     font-family:"GeoNMSRegular";
-    src: url("geonms-webfont.ttf") /* TTF file for CSS3 browsers */
+    src: url("geonms.ttf") /* TTF file for CSS3 browsers */
 }
 
 /*nav css*/
