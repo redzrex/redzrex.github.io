@@ -40,11 +40,13 @@ section {
 }
 
 section h2 {
+	font-family: 'GeosansLight-NMS' !important;
     margin: 50px;
     font-size: 3em;
 }
 
 .content-wrapper{
+	font-family: 'GeosansLight-NMS' !important;
 	text-align: center;
     background-color: white;
     top: 100%;
