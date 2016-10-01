@@ -5,13 +5,14 @@
         <meta charset=”utf-8”>
 		<meta name="wot-verification" content="fbfadf6abebc10a14fa8"/>
             <title>HEXAGON Empire</title>
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
                 <!-- Bootstrap -->
                 <link href="../assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
 				<link rel="stylesheet" href="assets/css/styles.css">
 				<link rel="stylesheet" href="assets/css/animate.css">
 				<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 				<link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.min.css">
+				<link type="text/css" rel="stylesheet" href="assets/css/materialize.min.css"  media="screen,projection"/>
 				<script src="https://use.fontawesome.com/353af4ccc4.js"></script>
 			
 		<style>
@@ -34,6 +35,7 @@
 		</script>
     </head>
     <body style='font-family="glyphicons-halflings-regular"'>
+	
 	
 <!--HEADER-->
 <header id="top">
@@ -127,25 +129,32 @@
                 </div>
             </div>
             <div class="row">
-				<h4>&nbsp;</h4>
-                <center><form>
-    
-				<div class="group">      
-				  <input type="text" required>
-				  <span class="highlight"></span>
-				  <span class="bar"></span>
-				  <label>Name</label>
-				</div>
-				  
-				<div class="group">      
-				  <input type="text" required>
-				  <span class="highlight"></span>
-				  <span class="bar"></span>
-				  <label>Email</label>
-				</div>
-				
-			  </form></center>
-            </div>
+    <form class="col s12">
+      <div class="row">
+        <div class="input-field col s6">
+          <i class="material-icons prefix">account_circle</i>
+          <input id="fullname" type="text" class="validate" required>
+          <label for="fullname">Full Name</label>
+        </div>
+        <div class="input-field col s6">
+          <i class="material-icons prefix">email</i>
+          <input id="email" type="tel" class="validate" required>
+          <label for="email">Email</label>
+        </div>
+        <div class="input-field col s6">
+          <i class="material-icons prefix">textsms</i>
+          <textarea id="message" class="materialize-textarea" length="200" required></textarea>
+          <label for="message">Message</label>
+        </div>
+		<button class="btn waves-effect waves-dark red tooltipped" data-position="bottom" data-delay="50" data-tooltip="Remove all texts" type="reset" name="reset" style="margin-top:50px;">Reset
+			<i class="material-icons right">replay</i>
+		</button>
+		<button class="btn waves-effect waves-light tooltipped" data-position="bottom" data-delay="50" data-tooltip="Send to 'Inbox'" type="submit" name="submit" style="margin-top:50px;">Submit
+			<i class="material-icons right">send</i>
+		</button>
+      </div>
+    </form>
+  </div>
         </div>
 		</section>
 		<section class="footer" id="footer">
@@ -176,88 +185,6 @@
       <div></div>
     </div>
   </div>
-  <div class='layer l3'>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-    <div class='la'>
-      <div class='l'></div>
-      <div class='l'></div>
-    </div>
-  </div>
 </div>
 		</section>
 	</div>
@@ -265,7 +192,8 @@
 
 		
 		<div id="particles"></div>
-        <script src="http://code.jquery.com/jquery.js"></script>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+		<script type="text/javascript" src="assets/js/materialize.min.js"></script>
         <script src="assets/js/header.js"></script>
 		
     </body>
